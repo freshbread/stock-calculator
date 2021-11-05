@@ -1,0 +1,15 @@
+server:
+  port: 8081
+
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/
+      suffix: .jsp
+  devtools:
+    livereload:
+      enabled: true
+
+search:
+  server:
+    ip: 127.0.0.1

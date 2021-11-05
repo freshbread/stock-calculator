@@ -11,7 +11,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.freshbread</groupId>
+    <groupId>io.github.freshbread</groupId>
     <artifactId>stock-calculator</artifactId>
     <version>1.0-SNAPSHOT</version>
 
