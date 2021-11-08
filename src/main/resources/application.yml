@@ -18,3 +18,12 @@ spring:
 search:
   server:
     ip: 127.0.0.1
+
+logging:
+  config: classpath:logback.xml
+  level:
+    net:
+      chndol:
+        study:
+          mybatissample:
+            mapper: DEBUG
